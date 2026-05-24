@@ -87,7 +87,7 @@ This project was inspired by the SQL Data Warehouse Project by Baraa Khatib Salk
 
 ---
 
-🛡️ ## License
+##🛡️ License
 
 This project is licensed under the MIT License.
 
