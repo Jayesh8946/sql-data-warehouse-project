@@ -95,6 +95,6 @@ This project is licensed under the MIT License.
 
 ## About Me
 
-I am an aspiring Data Analyst / Data Engineer passionate about SQL, data engineering, and analytics.
+I am an aspiring Data Analyst passionate about SQL, data engineering, and analytics.
 
 Currently building hands-on projects to strengthen my skills in data warehousing and business intelligence.
