@@ -48,7 +48,7 @@ These insights help support business decision-making and reporting.
 
 ---
 
-## Data Architecture
+## 🏗️ Data Architecture
 
 The project follows the Medallion Architecture approach:
 ![Data Architecture](docs/data_architecture.png)
