@@ -51,6 +51,7 @@ These insights help support business decision-making and reporting.
 ## Data Architecture
 
 The project follows the Medallion Architecture approach:
+![Data Architecture](docs/data_architecture.png)
 
 - Bronze Layer → Raw source data
 - Silver Layer → Cleaned and transformed data
