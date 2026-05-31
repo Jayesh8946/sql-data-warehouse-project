@@ -4,7 +4,7 @@ Building a modern data warehouse using SQL Server, including ETL processes, data
 
 ---
 
-## Overview
+## 📖 Project Overview
 
 This project demonstrates the implementation of a modern Data Warehouse using SQL Server. It includes data ingestion, ETL processes, data cleaning, dimensional modeling, and analytics reporting.
 
@@ -100,7 +100,7 @@ data-warehouse-project/
 ```
 ---
 
-## Learning Outcomes
+## 🏆 Learning Outcomes
 
 Through this project, I learned:
 
@@ -114,17 +114,18 @@ Through this project, I learned:
 
 ## Project Inspiration
 
-This project was inspired by the SQL Data Warehouse Project by Baraa Khatib Salkini and was recreated as a hands-on learning experience.
+Inspired by a SQL Data Warehouse learning project by Baraa Khatib Salkini. Built independently as a
+practical exercise in data warehousing, ETL pipelines, and analytics engineering.
 
 ---
 
-## License
+## 🛡️ License
 
 This project is licensed under the MIT License.
 
 ---
 
-## About Me
+## 🌟 About Me
 
 I am an aspiring Data Analyst passionate about SQL, data engineering, and analytics.
 
