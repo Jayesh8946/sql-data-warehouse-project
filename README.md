@@ -119,10 +119,6 @@ practical exercise in data warehousing, ETL pipelines, and analytics engineering
 
 ---
 
-## 🛡️ License
-
-This project is licensed under the MIT License.
-
 ---
 
 ## 🌟 About Me
