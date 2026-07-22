@@ -119,8 +119,6 @@ practical exercise in data warehousing, ETL pipelines, and analytics engineering
 
 ---
 
----
-
 ## 🌟 About Me
 
 I am an aspiring Data Analyst passionate about SQL, data engineering, and analytics.
